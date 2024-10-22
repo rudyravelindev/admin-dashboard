@@ -10,7 +10,7 @@ This is my Project: Admin Dashboard for The Odin Project
 not done yet
 
 # Live preview
-This form for was putting live using [GitHub Pages](https://rudyravelindev.github.io/admin-dashboard/)
+This Admin Dashboard was putting live using [GitHub Pages](https://rudyravelindev.github.io/admin-dashboard/)
 
 # Time spent on this project
 Starting date: 10/21/2024
