@@ -13,5 +13,7 @@ not done yet
 This Admin Dashboard was putting live using [GitHub Pages](https://rudyravelindev.github.io/admin-dashboard/)
 
 # Time spent on this project
+# Start
 Starting date: 10/21/2024
+# Finish
 Finish date: ???
