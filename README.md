@@ -4,7 +4,7 @@ This is my Project: Admin Dashboard for The Odin Project
 
 # The desing Provided
 
-![The design Provided](dashboard-project.png)
+![The design Provided](./images/dashboard-project.png)
 
 # What I ahve build
 
