@@ -7,7 +7,7 @@ This is my Project: Admin Dashboard for The Odin Project
 ![The design Provided](./images/dashboard-project.png)
 
 # What I built
-not done yet
+COMING SOON
 
 # Color Used
 Classic Monochrome with Accents:
