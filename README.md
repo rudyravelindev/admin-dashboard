@@ -28,7 +28,7 @@ Here’s how you could apply the **Classic Monochrome with Accents** color schem
    - **Primary Buttons or Links:** Accent Color Bright Orange (#FF4500)
    - **Highlight Text or Alerts:** Neon Green (#39FF14)
 
-### 4. Footer
+### 4. sFooter
    - **Background Color:** Dark Gray (#333333)
    - **Text:** Light Gray (#F0F0F0), with **Accent Color** Bright Orange (#FF4500) for key links or icons
    - **Borders/Dividers:** Charcoal (#4D4D4D)
