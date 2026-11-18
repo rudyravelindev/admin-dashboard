@@ -3,6 +3,6 @@ This is to practice my grid and flexbox nothing fanxe just folow the design and 
 # This is the design provided
 ![Design Provided](./assets/dashboard-project.png)
 # What I built
-[What I built](./assets/live.png)
+![What I built](./assets/live.png)
 # See it live
 [Live site](https://rudyravelindev.github.io/admin-dashboard/)
